@@ -4,3 +4,6 @@
 [submodule "submodule/asio"]
 	path = submodule/asio
 	url = git@github.com:chriskohlhoff/asio.git
+[submodule "submodule/vectorial"]
+	path = submodule/vectorial
+	url = git@github.com:scoopr/vectorial.git
