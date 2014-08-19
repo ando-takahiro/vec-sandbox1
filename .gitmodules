@@ -1,0 +1,6 @@
+[submodule "submodule/tinympl"]
+	path = submodule/tinympl
+	url = git@github.com:sbabbi/tinympl.git
+[submodule "submodule/asio"]
+	path = submodule/asio
+	url = git@github.com:chriskohlhoff/asio.git
